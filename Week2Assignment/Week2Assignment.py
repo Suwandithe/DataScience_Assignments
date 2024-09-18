@@ -27,4 +27,4 @@ for row in column_data[1:]:
 
 print(df)    
 
-df.to_csv(r'C:\Users\Modern\OneDrive\Desktop\DataScience\Week2Assignment\Top10LargestPrivateCompanies.csv', index= False)
+df.to_csv('Top10LargestPrivateCompanies.csv', index= False)
